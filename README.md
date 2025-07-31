@@ -1,5 +1,6 @@
 # Резюме
+
 Мои резюме
 
-- backend - `backend.pdf`
-- DevOps - `devops.pdf`
+- Fullstack - [fullstack.pdf](/fullstack.pdf)
+- DevOps - [devops.pdf](/devops.pdf)
